@@ -1,0 +1,13 @@
+/* CSS Stylesheet for AJAX testing pages */
+body{
+    background-color: black;
+    color: orange;
+}
+
+h1{
+    color:lightgray;
+}
+
+button{
+    border-radius: 6%;
+}
